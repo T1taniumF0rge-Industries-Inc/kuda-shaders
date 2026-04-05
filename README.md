@@ -18,6 +18,6 @@ KUDA Shaders is inspired by [DeDelner](https://dedelner.net/)'s shaders
 
 ---
 # 💘 Support me!
-To help me and make me develop more fascinating projects, share and recommend this datapack. Thank you so much!!!
+To help me and make me develop more fascinating projects, share and recommend this shader. Thank you so much!!!
 
 You can also try my other projects [here](https://modrinth.com/user/Titan1um) or the projects me and Polr made [here](https://modrinth.com/organization/titan1um-x-polr)! :D
